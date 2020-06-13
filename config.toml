@@ -1,0 +1,5 @@
+baseURL = "http://alacoc.com/"
+languageCode = "pt-br"
+title = "Guilherme Alacoc"
+theme = "m10c"
+author = "Guilherme de Alacoc"
