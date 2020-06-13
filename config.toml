@@ -3,3 +3,14 @@ languageCode = "pt-br"
 title = "Guilherme Alacoc"
 theme = "m10c"
 author = "Guilherme de Alacoc"
+avatar = "C:/Desenvolvimento/portfolio/avatar.jpeg"
+
+[params]
+  author = "Guilherme de Alacoc"
+  description = "Desenvolvedor web em formação, apaixonado por programação e design"
+  [[params.social]]
+    name = "github"
+    url = "hhttps://github.com/guilhermealacoc"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/guilherme-de-alacoc-aquino/"
